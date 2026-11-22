@@ -1,0 +1,15 @@
+{
+  "source": "https://github.com/akuamirkap-cyber/STIKFICK/blob/main/PENYELAM.zip",
+  "archiveSHA256": "d1b004284af19e9744da2d55b878ac95ececdfbd657c07012ec961df9d451bd8",
+  "files": {
+    "meshes.js": "d452559915c546d20e7cabec02b98c31e075407aac4b872e9f5c08bd497463c8",
+    "math.js": "d59902813643d31d61721d1d4cd80b50588beff5303e2c82f47127ac378239c2",
+    "face.js": "d30d12ab438754ef33be6a01c298878c085402b6e6797ff3f2f3f423c83534c1",
+    "cabin.js": "71671187ea531a433a37a663103b76f4f8af82f6977795a7012621b2a81973e8",
+    "world.js": "2e5a94281599b360188c993e532567c77934d5521f309e7e70c6d8e1af32901c"
+  },
+  "pilotPart": 5,
+  "windowFigureScale": 0.68,
+  "originalHelmetScale": 1.47,
+  "notes": "Archive sources are unmodified. Three.js materials, the clear glass layer, and side-view Fish.io animations are rendering adaptations."
+}

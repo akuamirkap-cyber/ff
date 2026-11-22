@@ -1,0 +1,6 @@
+{
+  "name": "Fish.io Dual Ocean Arcade",
+  "description": "Pilih dan mainkan dua versi game laut 3D Fish.io: Submarine & Diver Mechanics atau Tropical Reef Enhanced 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

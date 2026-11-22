@@ -1,0 +1,16 @@
+CC0 material sources, served locally. Powered by Poly Haven.
+
+weathered-stone.webp and stone-normal.webp
+Rock Face 03, photography by Dario Barresi, processing by Rico Cilliers.
+https://polyhaven.com/a/rock_face_03
+
+reef-crust.webp
+Coral Ground 02, Rob Tuytel.
+https://polyhaven.com/a/coral_ground_02
+
+sediment.webp
+Aerial Beach 02, Rob Tuytel.
+https://polyhaven.com/a/aerial_beach_02
+
+The original color and normal maps were resized and converted to WebP.
+License: https://creativecommons.org/publicdomain/zero/1.0/
